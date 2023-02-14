@@ -1,18 +1,15 @@
-In this project was execute timestamp in terraform to training and learn more about. 
+## TIMESTAMP - TERRAFORM
 
-Tools/functions utilized to create the better format to use in a project specify that I have working was:
+This is a timestamp structure to be used in some project, here the timestamp is collected and later the date is processed for the current country and in the sequence the format modeling is carried out.
 
-- Formatdate
-- Timeadd
-- Timestamp
-
+Tools/functions utilized to create the better format to use in a project specify that I have working was;
 Below is the documentation about the tools/functions:
 
-FORMAT DATE:
-https://developer.hashicorp.com/terraform/language/functions/formatdate
+#### FormatDate:
+- https://developer.hashicorp.com/terraform/language/functions/formatdate
 
-TIMESTAMP:
-https://developer.hashicorp.com/terraform/language/functions/timestamp
+#### TimeStamp:
+- https://developer.hashicorp.com/terraform/language/functions/timestamp
 
-TIMEADD:
-https://developer.hashicorp.com/terraform/language/functions/timeadd
+#### TimeAdd:
+- https://developer.hashicorp.com/terraform/language/functions/timeadd
