@@ -8,7 +8,8 @@ output "locals" {
         local.date_br,
         local.date_utc,
         local.amsterdam_tz,
-        local.brasilia_tz
+        local.brasilia_tz,
+        local.canada_tz
     ]
   
 }
